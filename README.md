@@ -1,4 +1,6 @@
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://github.com/user-attachments/assets/64e8ff83-ff7d-41dd-ba55-df9f0394db82" alt="image" width="615" height="461">
+</div>
 
 # 🎓 StudentVerse UI
 
